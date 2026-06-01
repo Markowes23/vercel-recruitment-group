@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Vercel Recruitment BV logo">
+  <defs>
+    <linearGradient id="vrb-a" x1="12" y1="8" x2="86" y2="88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4f86f7"/>
+      <stop offset=".52" stop-color="#2175d9"/>
+      <stop offset="1" stop-color="#0b153f"/>
+    </linearGradient>
+    <linearGradient id="vrb-b" x1="24" y1="24" x2="72" y2="74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eaf2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="18" fill="#0b153f"/>
+  <path d="M48 11 84 77H12L48 11Z" fill="url(#vrb-a)"/>
+  <path d="M34 31h14.8l7 17.2L63 31h13.5L57.2 70H44.8L34 31Z" fill="url(#vrb-b)"/>
+  <circle cx="72" cy="25" r="5" fill="#2175d9"/>
+</svg>
