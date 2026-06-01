@@ -1,0 +1,15 @@
+{
+  "name": "Vercel Recruitment BV",
+  "short_name": "Vercel Recruitment",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2175d9",
+  "icons": [
+    {
+      "src": "/assets/images/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
