@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/index.html</loc></url>
+  <url><loc>/about.html</loc></url>
+  <url><loc>/services.html</loc></url>
+  <url><loc>/look-for-a-job.html</loc></url>
+  <url><loc>/register.html</loc></url>
+  <url><loc>/contact.html</loc></url>
+  <url><loc>/application-success.html</loc></url>
+  <url><loc>/jobs/job-01-production-operator.html</loc></url>
+  <url><loc>/jobs/job-02-assembly-line-worker.html</loc></url>
+  <url><loc>/jobs/job-03-machine-operator.html</loc></url>
+  <url><loc>/jobs/job-04-quality-control-assistant.html</loc></url>
+  <url><loc>/jobs/job-05-production-packer.html</loc></url>
+  <url><loc>/jobs/job-06-manufacturing-assistant.html</loc></url>
+  <url><loc>/jobs/job-07-line-support-worker.html</loc></url>
+  <url><loc>/jobs/job-08-food-production-operative.html</loc></url>
+  <url><loc>/jobs/job-09-print-production-assistant.html</loc></url>
+  <url><loc>/jobs/job-10-production-team-leader.html</loc></url>
+  <url><loc>/jobs/job-11-shift-production-worker.html</loc></url>
+  <url><loc>/jobs/job-12-process-assistant.html</loc></url>
+  <url><loc>/jobs/job-12-warehouse-picker.html</loc></url>
+  <url><loc>/jobs/job-13-warehouse-packer.html</loc></url>
+  <url><loc>/jobs/job-14-parcel-sorter.html</loc></url>
+  <url><loc>/jobs/job-15-order-picker.html</loc></url>
+  <url><loc>/jobs/job-16-logistics-operative.html</loc></url>
+  <url><loc>/jobs/job-17-goods-in-assistant.html</loc></url>
+  <url><loc>/jobs/job-18-dispatch-worker.html</loc></url>
+  <url><loc>/jobs/job-19-stockroom-assistant.html</loc></url>
+  <url><loc>/jobs/job-20-packing-line-worker.html</loc></url>
+  <url><loc>/jobs/job-21-forklift-support-operative.html</loc></url>
+  <url><loc>/jobs/job-25-e-commerce-picker.html</loc></url>
+</urlset>

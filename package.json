@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node tools/serve-static.mjs outputs 4173",
+    "serve": "node tools/serve-static.mjs outputs 4173",
+    "check:links": "node tools/check-static-site.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
